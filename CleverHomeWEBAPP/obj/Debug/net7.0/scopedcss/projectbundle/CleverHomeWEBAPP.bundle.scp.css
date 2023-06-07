@@ -1,0 +1,49 @@
+/* _content/CleverHomeWEBAPP/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-r66q585lps] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-r66q585lps] {
+  color: #0077cc;
+}
+
+.btn-primary[b-r66q585lps] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-r66q585lps], .nav-pills .show > .nav-link[b-r66q585lps] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-r66q585lps] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-r66q585lps] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-r66q585lps] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-r66q585lps] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-r66q585lps] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
